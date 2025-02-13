@@ -1,6 +1,6 @@
 # 📊 SportPesa Jackpot Scraper (OOP)
 
-![SportPesa Logo](images\sportpesa.png)
+![SportPesa Logo](images/sportpesa.png)
 
 ## 📝 Project Overview
 This project is an **object-oriented Python scraper** designed to collect historical **SportPesa jackpot data** using Python. The script:
